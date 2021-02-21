@@ -1,0 +1,11 @@
+# github.com/lzhlyle/golang-zero-sdk v0.0.0-20210221071559-b9723ff3695c
+## explicit
+github.com/lzhlyle/golang-zero-sdk/alg
+github.com/lzhlyle/golang-zero-sdk/hello
+# golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+# rsc.io/quote v1.5.2
+rsc.io/quote
+# rsc.io/sampler v1.3.0
+rsc.io/sampler
